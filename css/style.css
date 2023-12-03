@@ -50,7 +50,7 @@ a{
 .address-info:hover{
     color: #404bbf
 }
-.address-info:active{
+.address-info:focus{
     color: #404bbf
 }
 .main-sections{
