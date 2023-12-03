@@ -34,7 +34,7 @@ a{
 .nav-links:hover{
     color: #404bbf; 
 }
-.nav-links:active{
+.nav-links:focus{
     color: #404bbf;
 }
 
