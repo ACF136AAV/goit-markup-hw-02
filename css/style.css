@@ -3,7 +3,7 @@ body{
     color: #434455;
     background-color: #FFFFFF;
 }
-logo-1{
+.logo-1{
     font-family: "Raleway", sans-serif;
     color: #4D5AE5;
     font-weight: 700;
@@ -12,55 +12,55 @@ logo-1{
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-logo-2{
+.logo-2{
     color: #2E2F42;
  }
 a{
      text-decoration: none;
  }
-nav-head{
+.nav-head{
     color: #2E2F42;
 }
-nav-links{
+.nav-links{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-nav-links:hover{
+.nav-links:hover{
     color: #404bbf; 
 }
-nav-links:active{
+.nav-links:active{
     color: #404bbf;
 }
 
-address-head{
+.address-head{
     font-style: normal
 }
-address-info{
+.address-info{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-address-info:hover{
+.address-info:hover{
     color: #404bbf
 }
-address-info:active{
+.address-info:active{
     color: #404bbf
 }
-main-sections{
+.main-sections{
     background-color: #2E2F42;
 }
-main-title{
+.main-title{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-btn{
+.btn{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -70,29 +70,29 @@ btn{
     color: #ffffff;
     cursor: pointer;
 }
-btn:hover{
+.btn:hover{
     background-color: #404BBF;
 }
-btn:active{
+.btn:active{
     background-color: #404BBF;
 }
-description{
+.description{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-text-dscr{
+.text-dscr{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-team{
+.team{
     background-color: #F4F4FD;
 }
-sub-title{
+.sub-title{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -100,6 +100,6 @@ sub-title{
     text-transform: capitalize;
     color: #2e2f42;
 }
-footer-container{
+.footer-container{
     background-color: #2e2f42;
 }
